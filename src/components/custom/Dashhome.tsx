@@ -1,13 +1,12 @@
-import React, {useState} from 'react';
+import React, { useState, useEffect } from 'react';
+import { ref, onValue } from "firebase/database";
 import Modal from './Modal';
 import SearchBar from './SearchBar';
 import AddScriptForm from './AddScriptForm';
 import ScriptCard from './ScriptCard';
-import scriptsData from '../../data/scripts.json';
-
 import Image from "next/image";
 import ConfirmForm from "@/components/custom/ConfirmForm";
-
+import { database } from "../../../firebaseConfig";
 
 interface Script {
     id: number;
@@ -19,12 +18,26 @@ interface Script {
 const categories: string[] = ['Todas', 'Saudação', 'Quiropraxia', 'Fisioterapia', 'Acupuntura', 'Massoterapia'];
 
 const Dashhome: React.FC = () => {
-    const [scripts, setScripts] = useState<Script[]>(scriptsData as Script[]);
+    const [scripts, setScripts] = useState<Script[]>([]);
     const [search, setSearch] = useState<string>('');
     const [selectedCategory, setSelectedCategory] = useState<string>('Todas');
     const [selectedScript, setSelectedScript] = useState<Script | null>(null);
     const [isAddModalOpen, setIsAddModalOpen] = useState<boolean>(false);
     const [isConfirmModalOpen, setIsConfirmModalOpen] = useState<boolean>(false);
+
+    useEffect(() => {
+        const scriptsRef = ref(database, 'scripts');
+
+        onValue(scriptsRef, (snapshot) => {
+            const data = snapshot.val();
+            const loadedScripts = Object.keys(data).map(key => ({
+                id: Number(key),
+                ...data[key]
+            }));
+
+            setScripts(loadedScripts);
+        });
+    }, []);
 
     const filteredScripts = scripts.filter((script) =>
         (selectedCategory === 'Todas' || script.category === selectedCategory) &&
@@ -46,17 +59,15 @@ const Dashhome: React.FC = () => {
     };
 
     return (
-
         <div className="bg-gray-100 rounded-lg p-8">
             <nav className="flex justify-between items-center border-b-0 border-neutral-50 mb-10">
-                <Image src="/logo.svg" height={56} width={152} alt="Logo"/>
+                <Image src="/logo.svg" height={56} width={152} alt="Logo" />
                 <button onClick={() => setIsConfirmModalOpen(true)}
                         className="mb-4 px-4 py-2 bg-blue-500 text-white rounded">Confirmar Agendamento
                 </button>
             </nav>
-
             <div className="bg-white rounded-lg p-8">
-                <SearchBar value={search} onChange={setSearch}/>
+                <SearchBar value={search} onChange={setSearch} />
                 <div className="flex justify-between items-center border-b-0 border-neutral-50 mb-10">
                     <div className="flex space-x-2 my-4">
                         {categories.map((category) => (
@@ -75,8 +86,6 @@ const Dashhome: React.FC = () => {
                             className="mb-4 px-4 py-2 bg-blue-500 text-white rounded">Adicionar Script
                     </button>
                 </div>
-
-
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                     {filteredScripts.map((script) => (
                         <ScriptCard
@@ -89,7 +98,6 @@ const Dashhome: React.FC = () => {
                         />
                     ))}
                 </div>
-
                 {selectedScript && (
                     <Modal
                         title={selectedScript.title}
@@ -99,7 +107,6 @@ const Dashhome: React.FC = () => {
                         onSave={handleSaveScript}
                     />
                 )}
-
                 <AddScriptForm
                     isOpen={isAddModalOpen}
                     onClose={() => setIsAddModalOpen(false)}
@@ -109,9 +116,8 @@ const Dashhome: React.FC = () => {
                     isOpen={isConfirmModalOpen}
                     onClose={() => setIsConfirmModalOpen(false)}
                     baseContent="Deseja agendar uma consulta?"
-/>
+                />
             </div>
-
         </div>
     );
 };

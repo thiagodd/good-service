@@ -1,63 +1,54 @@
-[
-  {
-    "id": 1,
-    "title": "Saudação Inicial",
-    "category": "Saudação",
-    "content": "Bem-vindo à nossa clínica! Estamos aqui para ajudar você a alcançar o bem-estar com uma abordagem acolhedora e personalizada. Nossos profissionais estão comprometidos em fornecer o máximo de qualidade em todos os atendimentos, visando sempre o seu conforto e segurança. Sabemos que a saúde é o bem mais precioso e, por isso, cuidamos de cada detalhe para que você tenha uma experiência positiva desde o primeiro contato. Se tiver dúvidas sobre os procedimentos, nossa equipe está pronta para orientar e esclarecer qualquer questão. A nossa missão é proporcionar a você alívio, bem-estar e uma vida mais equilibrada. Em nossa clínica, você estará em boas mãos e contará com profissionais qualificados, utilizando técnicas que visam promover sua saúde de forma integral e duradoura. Nosso atendimento é estruturado para cuidar de cada necessidade individualmente, com atenção e dedicação, garantindo que todos os pacientes saiam satisfeitos e com uma nova perspectiva sobre o próprio corpo. Seja bem-vindo e conte conosco para cuidar de você!"
-  },
-  {
-    "id": 2,
-    "title": "Explicação sobre Quiropraxia",
-    "category": "Quiropraxia",
-    "content": "A quiropraxia é uma prática focada no alinhamento da coluna vertebral para promover saúde e bem-estar. Esta especialidade utiliza técnicas específicas para ajustar as articulações e corrigir desalinhamentos, aliviando dores e desconfortos, além de melhorar a mobilidade. O tratamento quiroprático é amplamente indicado para aqueles que sofrem com dores nas costas, pescoço, ombros e para quem busca prevenção de problemas futuros. Durante a consulta, o quiropraxista realiza uma avaliação completa para entender as necessidades do paciente, aplicando manobras seguras e eficazes, sempre respeitando o limite de cada um. A quiropraxia não só trata sintomas, mas também foca na causa das dores, proporcionando alívio e prevenção a longo prazo. O método é ideal para quem deseja evitar tratamentos invasivos e medicamentosos, com resultados evidentes em poucos atendimentos. Experimente os benefícios dessa técnica milenar e descubra uma nova forma de cuidar da sua saúde de forma natural e eficiente."
-  },
-  {
-    "id": 3,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Fisioterapia",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 4,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Fisioterapia",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 5,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Fisioterapia",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 6,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Fisioterapia",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 7,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Acupuntura",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 8,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Massoterapia",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 9,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Massoterapia",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  },
-  {
-    "id": 10,
-    "title": "Explicação sobre Fisioterapia",
-    "category": "Acupuntura",
-    "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
-  }
-]
+{
+  "scripts": {
+    "script1": {
+      "id": 1,
+      "title": "Saudação Inicial",
+      "category": "Saudação",
+      "content": "Bem-vindo à nossa clínica! Estamos aqui para ajudar você a alcançar o bem-estar com uma abordagem acolhedora e personalizada. Nossos profissionais estão comprometidos em fornecer o máximo de qualidade em todos os atendimentos, visando sempre o seu conforto e segurança. Sabemos que a saúde é o bem mais precioso e, por isso, cuidamos de cada detalhe para que você tenha uma experiência positiva desde o primeiro contato. Se tiver dúvidas sobre os procedimentos, nossa equipe está pronta para orientar e esclarecer qualquer questão. A nossa missão é proporcionar a você alívio, bem-estar e uma vida mais equilibrada. Em nossa clínica, você estará em boas mãos e contará com profissionais qualificados, utilizando técnicas que visam promover sua saúde de forma integral e duradoura. Nosso atendimento é estruturado para cuidar de cada necessidade individualmente, com atenção e dedicação, garantindo que todos os pacientes saiam satisfeitos e com uma nova perspectiva sobre o próprio corpo. Seja bem-vindo e conte conosco para cuidar de você!"
+    },
+    "script2": {
+      "id": 2,
+      "title": "Explicação sobre Quiropraxia",
+      "category": "Quiropraxia",
+      "content": "A quiropraxia é uma prática focada no alinhamento da coluna vertebral para promover saúde e bem-estar. Esta especialidade utiliza técnicas específicas para ajustar as articulações e corrigir desalinhamentos, aliviando dores e desconfortos, além de melhorar a mobilidade. O tratamento quiroprático é amplamente indicado para aqueles que sofrem com dores nas costas, pescoço, ombros e para quem busca prevenção de problemas futuros. Durante a consulta, o quiropraxista realiza uma avaliação completa para entender as necessidades do paciente, aplicando manobras seguras e eficazes, sempre respeitando o limite de cada um. A quiropraxia não só trata sintomas, mas também foca na causa das dores, proporcionando alívio e prevenção a longo prazo. O método é ideal para quem deseja evitar tratamentos invasivos e medicamentosos, com resultados evidentes em poucos atendimentos. Experimente os benefícios dessa técnica milenar e descubra uma nova forma de cuidar da sua saúde de forma natural e eficiente."
+    },
+    "script3": {
+      "id": 3,
+      "title": "Explicação sobre Fisioterapia",
+      "category": "Fisioterapia",
+      "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
+    },
+    "script4": {
+      "id": "4",
+      "category": "Quiropraxia",
+      "title": "Lembrete de consulta",
+      "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
 
+    },
+    "script5": {
+      "id": "5",
+      "category": "Quiropraxia",
+      "title": "Texto para lembrete de consulta",
+      "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
+    },
+    "script6": {
+      "id": "6",
+      "category": "Quiropraxia",
+      "title": "Lembrete de consulta",
+      "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida."
+    },
+    "script7": {
+      "id": "7",
+      "category": "Quiropraxia",
+      "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida.",
+      "title": "Lembrete de consulta"
+    },
+    "script8": {
+      "id": "8",
+      "category": "Quiropraxia",
+      "content": "A fisioterapia é uma especialidade que visa recuperar e preservar a funcionalidade do corpo por meio de técnicas manuais e exercícios terapêuticos. Cada sessão é planejada para restaurar movimentos, reduzir a dor e fortalecer áreas enfraquecidas. Nossos fisioterapeutas avaliam individualmente cada caso, desenvolvendo um plano de tratamento que se encaixa nas suas necessidades. Esta abordagem contribui para a recuperação de lesões, reabilitação pós-cirúrgica, alívio de dores crônicas e melhoria na qualidade de vida. A fisioterapia atua de forma abrangente, indo além do alívio dos sintomas, com técnicas inovadoras e métodos avançados que promovem saúde e bem-estar. Independentemente da sua condição física atual, trabalhamos para que você recupere seu potencial, oferecendo suporte para que atinja seus objetivos de saúde e funcionalidade. Experimente a fisioterapia em nossa clínica e redescubra os movimentos livres de dor, com maior disposição e qualidade de vida.",
+      "title": "Lembrete de consulta"
+    }
+
+  }
+}
